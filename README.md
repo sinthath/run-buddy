@@ -12,3 +12,5 @@ https://lernantino.github.io/run-hubby/
 
 ## Contribution
 Made with ❤️ by Scott Inthathirath
+
+### @2019 Run Buddy, Inc
